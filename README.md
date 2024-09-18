@@ -1,4 +1,4 @@
-# Macawsome Azure
+# Macawsome Azure [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ## About
 This list is both an accompanying resource for our projects and a standalone curation of useful content for those who are curious about migrating and modernizing their infrastructure on Microsoft Azure.
 
